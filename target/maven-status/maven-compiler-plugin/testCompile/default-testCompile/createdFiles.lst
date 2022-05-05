@@ -1,0 +1,6 @@
+pojo\LocationPojo.class
+bdd\RestAssuredFramework\AppTest.class
+pojo\TypesPojo.class
+runner\TestRunner.class
+stepdefinitions\AddPlaceSteps.class
+pojo\SerializePojo.class
